@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DataFileEntity>
    <description></description>
-   <name>TC01 Test Data</name>
+   <name>TS01 Test Data correct</name>
    <tag></tag>
    <connectionProperties/>
    <containsHeaders>true</containsHeaders>

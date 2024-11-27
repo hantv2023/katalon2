@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Test Suite 2 - Login unsucessfully</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>ed0e649f-e10e-477f-9a3a-16ac50b12d67</testSuiteGuid>
+   <testCaseLink>
+      <guid>f6cc12d4-660e-47e2-8584-10d466ad9e31</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC03 Users cannot login with incorrect username</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>7c6148c7-c57d-4add-b8fc-c8ed4b9fc02e</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/TS02 Test data incorrect</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>7c6148c7-c57d-4add-b8fc-c8ed4b9fc02e</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>06dc0a69-02b5-414b-9be6-e175a0b37aa5</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>7c6148c7-c57d-4add-b8fc-c8ed4b9fc02e</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>97714cfe-90f6-4189-8968-d9ffebf71ce9</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>c85e385f-4b9b-484d-a777-53cb8ea875b5</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC04 Users cannot login with incorrect password</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>0b6e192d-1036-4a94-9c1a-8d9b8ab295c8</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>ef41d8ac-9407-4d2c-b9f1-3d15a1871eac</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>7d33895f-15cf-4b2c-beff-7d65b5ee7af2</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC05 Users cannot login with incorrect username and password</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>5eb2220c-dc54-4c4c-aece-90b594ca1041</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/TS02 Test data incorrect</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>5eb2220c-dc54-4c4c-aece-90b594ca1041</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>82848e5b-43a0-4202-979b-90c59af116cd</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>5eb2220c-dc54-4c4c-aece-90b594ca1041</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>6a74783f-84ca-490d-b539-267506107159</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

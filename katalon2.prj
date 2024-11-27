@@ -6,11 +6,12 @@
    <UUID>a8943b17-4baa-42e2-ab8f-3efd308eeb20</UUID>
    <createdEdition>FREE</createdEdition>
    <createdVersion>10.0.0</createdVersion>
-   <freeLicense>false</freeLicense>
+   <freeLicense>true</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <modifiedEdition>FREE</modifiedEdition>
    <modifiedVersion>10.0.0</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>C:\Users\hanguyentv\git\katalon2\katalon2.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

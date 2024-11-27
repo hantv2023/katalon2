@@ -26,7 +26,7 @@ public class UserLoginApplication {
 
 		WebUI.setText(findTestObject('Object Repository/Login form/Username textbox'), username)
 
-		WebUI.setEncryptedText(findTestObject('Object Repository/Login form/Password textbox'), password)
+		WebUI.setText(findTestObject('Object Repository/Login form/Password textbox'), password)
 
 		WebUI.click(findTestObject('Object Repository/Login form/Login button'))
 	}
