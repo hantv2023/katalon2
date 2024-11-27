@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02 User can get a single book</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9c4d209f-48b0-44fe-9cec-1e145aa9908f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4c3f0952-65f4-4deb-9690-a17f148da281</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4c3f0952-65f4-4deb-9690-a17f148da281</id>
+      <masked>false</masked>
+      <name>bookId</name>
+   </variable>
+</TestCaseEntity>

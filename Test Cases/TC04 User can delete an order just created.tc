@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC04 User can delete an order just created</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c15bda1e-2d87-4a67-883d-86bdca3a7229</testCaseGuid>
+</TestCaseEntity>

@@ -31,7 +31,7 @@ WebUI.click(findTestObject('Object Repository/HomePage/Make appointment button')
 
 WebUI.comment('Input valid username and password then click Login')
 
-CustomKeywords.'demoKatalon.UserLoginApplication.UserLogin'('John Doe', 'g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM')
+CustomKeywords.'demoKatalon.UserLoginApplication.UserLogin'(username, password)
 
 //WebUI.setText(findTestObject('Object Repository/Login form/Username textbox'), 'John Doe')
 //WebUI.setEncryptedText(findTestObject('Object Repository/Login form/Password textbox'), 'g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM')
